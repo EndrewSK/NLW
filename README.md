@@ -2,7 +2,7 @@
 
 | *Tilha explorer* - [🔗 Page Here](https://endrewsk.github.io/NLW/) |
 <br><br>
-**Projeto construído no evento Next Level Week da Rocketseat**
+**Projeto construído no evento Next Level Week da `Rocketseat`**
 
 ## 🛠 Tecnologias
 - HTML
